@@ -1,6 +1,6 @@
 # 👨‍🎓 Etudes
 
-`2022-2023` [OpenClassRooms](https://openclassrooms.com/)
+`2020` [OpenClassRooms](https://openclassrooms.com/)
 - Développeur Javascript React
 - Courses: HTML, CSS, JavaScript, ReactJS, UI/UX Design.
 

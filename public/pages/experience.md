@@ -1,6 +1,6 @@
 # 👨‍💻 Experience
 
-**Land surveyor** @ [Seral](https://www.seral-tp.fr/) _(Jan 2019 - Mai 2021)_
+**Land surveyor** @ [Seral](https://www.seral-tp.fr/) _(Jan 2021 - Present)_
 
 intervene before and after work in three areas:
 - Geodetection and georeferencing of underground networks
@@ -9,7 +9,7 @@ intervene before and after work in three areas:
 
 &nbsp;
 
-**Director of Operations** @ [STIDEst](https://www.stidest.dz/) _(Jan 2017 - Dec 2018)_
+**Director of Operations** @ [STIDEst](https://www.stidest.dz/) _(Jan 2017 - Dec 2019)_
 
 - Operational Planning: Developing and implementing operational plans and strategies for efficient waste treatment processes.
 - Process Optimization: Continuously improving and optimizing waste treatment processes to maximize efficiency and compliance with environmental regulations.
@@ -21,10 +21,10 @@ intervene before and after work in three areas:
 
 &nbsp;
 
-**Construction site supervisor** @ [Daewoo engineering & construction](https://m.daewooenc.com/eng/main) _(Mar 2015 - Dec 2016)_
+**Process technician** @ [SONATRACH](https://sonatrach.com/) _(Mar 2015 - Dec 2016)_
 
-- Supervision of Construction Activities: Overseeing and managing construction activities on the site to ensure they are carried out according to specifications, safety guidelines, and project timelines.
-- Safety Compliance: Ensuring compliance with safety regulations and protocols on the construction site. Conducting regular safety inspections, promoting a culture of safety, and addressing any safety concerns or incidents that arise.
-- Project Planning and Coordination: Collaborating with project managers to develop and implement project plans, including scheduling, resource allocation, and sequencing of construction activities.
-- Team Management: Supervising and coordinating the work of construction crews, subcontractors, and other personnel on the site to maintain productivity, quality, and safety standards.
-- Communication and Collaboration: Serving as a point of contact and maintaining effective communication with project stakeholders, including contractors, suppliers, clients, and regulatory authorities. Providing progress updates and addressing any concerns or issues raised by stakeholders.
+- Monitor Operations: Continuously monitor the operation of equipment and processes, keeping a close eye on key parameters such as temperature, pressure, flow rates, and levels. Detect and address deviations from normal operating conditions.
+- Troubleshooting: Identify and troubleshoot issues and abnormalities in the processes, equipment, and instrumentation. Work to resolve problems quickly to minimize downtime and maintain production efficiency.
+- Safety Compliance: Adhere to strict safety protocols and procedures to ensure a safe working environment for yourself and others. Implement safety measures and respond to emergency situations, such as fires or chemical spills.
+- Maintain Equipment: Perform routine maintenance and inspections of equipment, including pumps, compressors, valves, and instrumentation. Carry out minor repairs and participate in equipment overhauls and shutdowns.
+- Emergency Response: Be prepared to respond to emergencies, such as equipment malfunctions, fires, or leaks, following established emergency response plans.

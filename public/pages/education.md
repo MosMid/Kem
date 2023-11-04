@@ -1,5 +1,5 @@
 # 👨‍🎓 Education
-`2022-2023` [OpenClassRooms](https://openclassrooms.com/)
+`2020` [OpenClassRooms](https://openclassrooms.com/)
 - **B.Sc.** JavaScript React Developer
 - Courses: HTML, CSS, JavaScript, ReactJS, UI/UX Design.
 
